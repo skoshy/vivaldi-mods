@@ -1,0 +1,9 @@
+.tab-header .favicon,
+.tab-header .close {
+  display: block !important;
+}
+
+.tab-header .close {
+  order: 1 !important;
+  margin-right: 5px;
+}
